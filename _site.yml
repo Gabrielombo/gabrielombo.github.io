@@ -1,0 +1,17 @@
+name: "my-website"
+output_dir: "."
+navbar:
+  title: "Parceros"
+  left:
+    - text: "Inicio"
+      href: inicio.html
+    - text: "Programa"
+      href: programa.html
+    - text: "Mentor"
+      href: mentor.html
+    - text: "Mentee"
+      href: mentee.html
+    - text: "Contacto"
+      href: contacto.html
+    - text: "Más información"
+      href: info.html
